@@ -8,7 +8,7 @@ The goal of this repository is to provide and maintain a high-quality, up-to-dat
 ### LLM Leaderboards
 
 | Name  | What does it evaluate? | Link  
-|---|---|---|---|
+|---|---|---|
 | Arabic LLM Broad Leaderboard (ABL)  |  Comprehensive evaluation of the Arabic language through testing proficiency in 22 skills and categories  |  https://huggingface.co/spaces/silma-ai/Arabic-LLM-Broad-Leaderboard | Includes visualizations, analytical capabilities, model skill breakdowns, speed comparisons, and contamination detection mechanisms   
 | Arabic-Leaderboards   |  IFEval, Question Answering, Orthographic and Grammatical Analysis, Reasoning, Safety | https://huggingface.co/spaces/inceptionai/Arabic-Leaderboards |  Closed datasets (except IFEval)  
 | Islamic MMLU  |  Islamic knowledge  |  https://huggingface.co/spaces/islamicmmlu/leaderboard | Islamic knowledge  
@@ -19,7 +19,7 @@ The goal of this repository is to provide and maintain a high-quality, up-to-dat
 
 
 | Name  | What does it evaluate? | Link  
-|---|---|---|---|
+|---|---|---|
 | Arabic TTS Arena |  Compare Arabic text‑to‑speech models side by side |  https://huggingface.co/spaces/Navid-AI/Arabic-TTS-Arena
 | Arabic Commercial TTS Benchmark | Retrieval and Re-ranking  | https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark 
 | Arabic Open-source TTS Benchmark| Retrieval and Re-ranking  | https://huggingface.co/spaces/silma-ai/arabic-tts-benchmark | 
@@ -29,7 +29,7 @@ The goal of this repository is to provide and maintain a high-quality, up-to-dat
 ### Speech to Text Leaderboards
 
 | Name  | What does it evaluate? | Link  
-|---|---|---|---|
+|---|---|---|
 | Open Universal Arabic ASR Leaderboard  |  multi-dialect Arabic ASR  |  https://huggingface.co/spaces/elmresearchcenter/open_universal_arabic_asr_leaderboard 
 
 
