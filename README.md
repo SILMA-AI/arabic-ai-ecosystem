@@ -30,7 +30,7 @@ The goal of this repository is to provide and maintain a high-quality, up-to-dat
 
 | Name  | What does it evaluate? | Link  
 |---|---|---|
-| Open Universal Arabic ASR Leaderboard  |  multi-dialect Arabic ASR  |  https://huggingface.co/spaces/elmresearchcenter/open_universal_arabic_asr_leaderboard 
+| Open Universal Arabic ASR Leaderboard  |  multi-dialect Arabic ASR  |  https://huggingface.co/spaces/elmresearchcenter/open_universal_arabic_asr_leaderboard |
 
 
 
