@@ -1,6 +1,7 @@
 # Arabic AI Ecosystem
 The goal of this repository is to provide and maintain a high-quality, up-to-date overview of the Arabic AI ecosystem.
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_a0374na0374na037" src="https://github.com/user-attachments/assets/305d985f-4269-4d1a-aaed-fd7c45be1065" />
 
 ## Arabic AI Benchmarks & Leaderboards
 
@@ -10,9 +11,8 @@ The goal of this repository is to provide and maintain a high-quality, up-to-dat
 |---|---|---|---|
 | Arabic LLM Broad Leaderboard (ABL)  |  Comprehensive evaluation of the Arabic language through testing proficiency in 22 skills and categories  |  https://huggingface.co/spaces/silma-ai/Arabic-LLM-Broad-Leaderboard | Includes visualizations, analytical capabilities, model skill breakdowns, speed comparisons, and contamination detection mechanisms   
 | Arabic-Leaderboards   |  IFEval, Question Answering, Orthographic and Grammatical Analysis, Reasoning, Safety | https://huggingface.co/spaces/inceptionai/Arabic-Leaderboards |  Closed datasets (except IFEval)  
-(https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard-v1)  
 | Islamic MMLU  |  Islamic knowledge  |  https://huggingface.co/spaces/islamicmmlu/leaderboard | Islamic knowledge  
-| Open Arabic LLM Leaderboard (OALL) v2  |  General Knowledge, MMLU, Grammar, RAG Generation, Trust & Safety, Sentiment Analysis & Dialects |  https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard |  [v1 legacy]
+| Open Arabic LLM Leaderboard (OALL) v2  |  General Knowledge, MMLU, Grammar, RAG Generation, Trust & Safety, Sentiment Analysis & Dialects |  https://huggingface.co/spaces/OALL/Open-Arabic-LLM-Leaderboard 
 
 
 ### Text to Speech Leaderboards
@@ -20,7 +20,7 @@ The goal of this repository is to provide and maintain a high-quality, up-to-dat
 
 | Name  | What does it evaluate? | Link | Comments 
 |---|---|---|---|
-| Arabic TTS Arena |  Compare Arabic text‑to‑speech models side by side. |  https://huggingface.co/spaces/Navid-AI/Arabic-TTS-Arena|  |
+| Arabic TTS Arena |  Compare Arabic text‑to‑speech models side by side |  https://huggingface.co/spaces/Navid-AI/Arabic-TTS-Arena|  |
 | Arabic Commercial TTS Benchmark | Retrieval and Re-ranking  | https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark |   |
 | Arabic Open-source TTS Benchmark| Retrieval and Re-ranking  | https://huggingface.co/spaces/silma-ai/arabic-tts-benchmark |   |
 
