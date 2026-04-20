@@ -42,6 +42,20 @@ The goal of this repository is to provide and maintain a high-quality, up-to-dat
 | The Arabic RAG Leaderboard  | Retrieval and Re-ranking  |  https://huggingface.co/spaces/Navid-AI/The-Arabic-Rag-Leaderboard |  Adding RAG Generation component is planned  |
 
 
+### Arabic OCR Models
+
+| Name  | What does it evaluate? | Link | Comments 
+|---|---|---|---|
+| Arabic OCR Models Demo |  HF Space comparing two Arabic-first OCR models | [https://huggingface.co/spaces/oddadmix/Arabic-OCR-Models-Demos](https://huggingface.co/spaces/oddadmix/Arabic-OCR-Models-Demos) |   |
+
+
+### Arabic Tashkeel Models
+
+| Name  | What does it evaluate? | Link | Comments 
+|---|---|---|---|
+| Arabic Tashkeel Demo|  HF Space comparing two Arabic-first tashkeel models | [https://huggingface.co/spaces/oddadmix/Arabic-OCR-Models-Demos](https://huggingface.co/spaces/MohamedRashad/arabic-auto-tashkeel) |   |
+
+
 
 
 
