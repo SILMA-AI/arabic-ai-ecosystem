@@ -58,4 +58,6 @@ The goal of this repository is to provide and maintain a high-quality, up-to-dat
 
 
 
+### Other resources
 
+* [Best Arabic TTS Models - Aug 2026](https://silma.ai/blog/best-low-latency-arabic-text-to-speech-apis-for-developers-2026-benchmark)
