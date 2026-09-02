@@ -5,6 +5,14 @@ The goal of this repository is to provide and maintain a high-quality, up-to-dat
 
 ## Arabic AI Benchmarks & Leaderboards
 
+
+### SILMA TTS Models 
+
+* [SILMA TTS v1](https://silma.ai/open-source-arabic-tts-models)
+
+* [SILMA TTS v2](https://silma.ai/arabic-text-to-speech)
+
+
 ### LLM Leaderboards
 
 | Name  | What does it evaluate? | Link  
